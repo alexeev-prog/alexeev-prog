@@ -43,6 +43,8 @@
 ### :fire: My statistics
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=shegang)](https://github.com/alexeev-prog/shegang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=hex64)](https://github.com/alexeev-prog/hex64)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=Pentest154)](https://github.com/alexeev-prog/Pentest154)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpp)](https://github.com/alexeev-prog/libnumerixpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=CodeCluster)](https://github.com/alexeev-prog/CodeCluster)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pycolor-palette)](https://github.com/alexeev-prog/pycolor-palette)

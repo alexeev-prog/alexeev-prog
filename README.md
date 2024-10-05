@@ -1,8 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=alexeev-prog&style=flat-square&color=blue" alt=""/>
 
 <h1 align="center">Hi, i am <a href="https://t.me/alexeev_dev" target="_blank">Alexeev</a> 
-<h3 align="center">Computer science student, developer in C/C++, Go, Python and technical writer from Russia 🇷🇺</h3>
-<h3 align="right">Also, i am part of the Alt Gnome Developement and Wiki Team</h3>
+<h3 align="center">Computer science student, developer in C/C++, Go, Python and technical writer from Russia 🇷🇺  </h3>
+<h3 align="right">Also, i am part of the Alt Gnome Community</h3>
 
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer"/></p>
 
@@ -12,8 +12,8 @@
 
 ## About me 😄
 
-- 🔭 I am working on well-designed projects: SHEGANG, libnumerixpp
-- 🌱 I learning assembly, C/C++ and ML.
+- 🔭 I am working on well-designed projects: SHEGANG, libnumerixpp, CodeCluster
+- 🌱 I learning C/C++ and ML.
 - 📫 Email: bro.alexeev@inbox.ru
 - 🤔 I want to learn AI/ML and computer science
 - :zap: I am love write articles
@@ -46,6 +46,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=hex64)](https://github.com/alexeev-prog/hex64)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=Pentest154)](https://github.com/alexeev-prog/Pentest154)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpp)](https://github.com/alexeev-prog/libnumerixpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=JustProj)](https://github.com/alexeev-prog/JustProj)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=CodeCluster)](https://github.com/alexeev-prog/CodeCluster)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pycolor-palette)](https://github.com/alexeev-prog/pycolor-palette)
 

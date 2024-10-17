@@ -47,7 +47,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=Pentest154)](https://github.com/alexeev-prog/Pentest154)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpp)](https://github.com/alexeev-prog/libnumerixpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=JustProj)](https://github.com/alexeev-prog/JustProj)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=CodeCluster)](https://github.com/alexeev-prog/CodeCluster)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=SQLSymphony)](https://github.com/alexeev-prog/SQLSymphony)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pycolor-palette)](https://github.com/alexeev-prog/pycolor-palette)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog)

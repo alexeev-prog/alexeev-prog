@@ -1,5 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=alexeev-prog&style=flat-square&color=blue" alt=""/>
 
+<p align='center'><img src='./wallpaper.jpg'></img></p>
+
 <h1 align="center">Hi, i am <a href="https://t.me/alexeev_dev" target="_blank">Alexeev</a> 
 <h3 align="center">Computer science student, developer in C/C++, Go, Python and technical writer from Russia 🇷🇺  </h3>
 <h3 align="right">Also, i am part of the Alt Gnome Community</h3>
@@ -12,11 +14,11 @@
 
 ## About me 😄
 
-- 🔭 I am working on well-designed projects: SHEGANG, libnumerixpp, CodeCluster
-- 🌱 I learning C/C++ and ML.
-- 📫 Email: bro.alexeev@inbox.ru
-- 🤔 I want to learn AI/ML and computer science
-- :zap: I am love write articles
+- 🔭 I am working on well-designed projects: [SQLSymphony](https://github.com/alexeev-prog/SQLSymphony), [libnumerixpp](https://github.com/alexeev-prog/libnumerixpp), [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext)
+- 🌱 I learning C/C++, GO.
+- 📫 Email: alexeev.dev@inbox.ru
+- 🤔 I want to learn AI/ML, CS and graphics-dev
+- :zap: I am love write articles and coding
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexeev-prog)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -26,6 +28,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexeev-prog)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexeev-prog)
+
+---
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -43,12 +47,20 @@
 ### :fire: My statistics
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=shegang)](https://github.com/alexeev-prog/shegang)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=hex64)](https://github.com/alexeev-prog/hex64)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=Pentest154)](https://github.com/alexeev-prog/Pentest154)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpp)](https://github.com/alexeev-prog/libnumerixpp)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=JustProj)](https://github.com/alexeev-prog/JustProj)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=SQLSymphony)](https://github.com/alexeev-prog/SQLSymphony)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pycolor-palette)](https://github.com/alexeev-prog/pycolor-palette)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pycolor-palette)](https://github.com/alexeev-prog/pyEchoNext)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pycolor-palette)](https://github.com/alexeev-prog/aioconsole)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pycolor-palette)](https://github.com/alexeev-prog/burn-build)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pycolor-palette)](https://github.com/alexeev-prog/gnux)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog)
 

@@ -54,13 +54,13 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=SQLSymphony)](https://github.com/alexeev-prog/SQLSymphony)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pycolor-palette)](https://github.com/alexeev-prog/pyEchoNext)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext)](https://github.com/alexeev-prog/pyEchoNext)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pycolor-palette)](https://github.com/alexeev-prog/aioconsole)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=aioconsole)](https://github.com/alexeev-prog/aioconsole)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pycolor-palette)](https://github.com/alexeev-prog/burn-build)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=burn-build)](https://github.com/alexeev-prog/burn-build)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pycolor-palette)](https://github.com/alexeev-prog/gnux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=gnux)](https://github.com/alexeev-prog/gnux)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog)
 

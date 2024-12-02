@@ -46,22 +46,12 @@
 
 ### :fire: My statistics
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=shegang)](https://github.com/alexeev-prog/shegang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=shegang)](https://github.com/alexeev-prog/shegang) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpp)](https://github.com/alexeev-prog/libnumerixpp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpp)](https://github.com/alexeev-prog/libnumerixpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=JustProj)](https://github.com/alexeev-prog/JustProj) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=SQLSymphony)](https://github.com/alexeev-prog/SQLSymphony)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=JustProj)](https://github.com/alexeev-prog/JustProj)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext)](https://github.com/alexeev-prog/pyEchoNext) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=aioconsole)](https://github.com/alexeev-prog/aioconsole)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=SQLSymphony)](https://github.com/alexeev-prog/SQLSymphony)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=burn-build)](https://github.com/alexeev-prog/burn-build) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=gnux)](https://github.com/alexeev-prog/gnux)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext)](https://github.com/alexeev-prog/pyEchoNext)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=aioconsole)](https://github.com/alexeev-prog/aioconsole)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=burn-build)](https://github.com/alexeev-prog/burn-build)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=gnux)](https://github.com/alexeev-prog/gnux)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexeev-prog&locale=ru&mode=weekly)](https://git.io/streak-stats) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexeev-prog)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexeev-prog)

@@ -1,10 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=alexeev-prog&style=flat-square&color=blue" alt=""/>
 
-<p align='center'><img src='./wallpaper.jpg'></img></p>
-
 <h1 align="center">Hi, i am <a href="https://t.me/alexeev_dev" target="_blank">Alexeev</a> 
 <h3 align="center">Computer science student, developer in C/C++, Go, Python and technical writer from Russia 🇷🇺  </h3>
 <h3 align="right">Also, i am part of the Alt Gnome Community</h3>
+
+<p align='center'><img src='./wallpaper.jpg'></img></p>
 
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer"/></p>
 

@@ -1,18 +1,16 @@
 <img src="https://komarev.com/ghpvc/?username=alexeev-prog&style=flat-square&color=blue" alt=""/>
 
+<p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer"/></p>
+
 <h1 align="center">Hi, i am <a href="https://t.me/alexeev_dev" target="_blank">Alexeev</a> 
 <h3 align="center">Computer science student, developer in C/C++, Go, Python and technical writer from Russia 🇷🇺  </h3>
 <h3 align="right">Also, i am part of the Alt Gnome Community</h3>
 
 <p align='center'><img src='./wallpaper.jpg'></img></p>
 
-<p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer"/></p>
+<p align='center'><img src="./github-receipt-alexeev-prog.png"></img></p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-## About me 😄
+<p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About Me"/></p>
 
 - 🔭 I am working on well-designed projects: [SQLSymphony](https://github.com/alexeev-prog/SQLSymphony), [libnumerixpp](https://github.com/alexeev-prog/libnumerixpp), [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext)
 - 🌱 I learning C/C++, GO.
@@ -20,14 +18,11 @@
 - 🤔 I want to learn AI/ML, CS and graphics-dev
 - :zap: I am love write articles and coding
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexeev-prog)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### :hammer_and_wrench: Tools and language :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeev-prog&hide=css,html)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexeev-prog)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexeev-prog)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexeev-prog) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexeev-prog)
 
 ---
 
@@ -54,4 +49,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=burn-build)](https://github.com/alexeev-prog/burn-build) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=gnux)](https://github.com/alexeev-prog/gnux)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexeev-prog)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexeev-prog)

@@ -10,7 +10,7 @@
 
 <p align='center'><img src="./github-receipt-alexeev-prog.png"></img></p>
 
-<p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About Me"/></p>
+## About me
 
 - 🔭 I am working on well-designed projects: [SQLSymphony](https://github.com/alexeev-prog/SQLSymphony), [libnumerixpp](https://github.com/alexeev-prog/libnumerixpp), [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext)
 - 🌱 I learning C/C++, GO.

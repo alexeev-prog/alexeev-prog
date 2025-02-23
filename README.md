@@ -6,16 +6,12 @@
 <h3 align="center">Computer science student, developer in C/C++, Go, Python and technical writer from Russia 🇷🇺  </h3>
 <h3 align="right">Also, i am part of the Alt Gnome Community</h3>
 
-<p align='center'><img src='./wallpaper.jpg'></img></p>
-
-<p align='center'><img src="./github-receipt-alexeev-prog.png"></img></p>
-
 ## About me
 
-- 🔭 I am working on well-designed projects: [SQLSymphony](https://github.com/alexeev-prog/SQLSymphony), [libnumerixpp](https://github.com/alexeev-prog/libnumerixpp), [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext)
-- 🌱 I learning C/C++, GO.
-- 📫 Email: alexeev.dev@inbox.ru
-- 🤔 I want to learn AI/ML, CS and graphics-dev
+- 🔭 I am working on well-designed projects: [pysqlified](https://github.com/alexeev-prog/pysqlified), [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext)
+- 🌱 I learning C/C++, Rust.
+- 📫 Email: alexeev.dev@mail.ru
+- 🤔 I want to learn system programming, CS and graphics-dev
 - :zap: I am love write articles and coding
 
 ### :hammer_and_wrench: Tools and language :
@@ -32,8 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GoLang" **alt="GoLang" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" **alt="Haskell" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="GoLang" **alt="GoLang" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>

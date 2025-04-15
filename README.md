@@ -56,7 +56,7 @@
     </a>
 </p>
 
-### About me
+### :fire: My statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
 
@@ -64,7 +64,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexeev-prog&theme=darkhub&column=6&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Stars,Followers,Experience,Repositories,Commits" alt="alexeev-prog" /></a> </p>
 
-### :fire: My statistics
+### 😎 My projects
 
 <div align='center'>
 

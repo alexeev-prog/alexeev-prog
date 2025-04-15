@@ -17,7 +17,9 @@
 ### :hammer_and_wrench: Tools and language :
 
 <div align='center'>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeev-prog&hide=css,html)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeev-prog&hide=css,html&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)
+
 </center>
 ---
 

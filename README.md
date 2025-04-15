@@ -65,6 +65,7 @@
 ### :fire: My statistics
 
 <div align='center'>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=shegang&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/shegang) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpp&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/libnumerixpp)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=JustProj&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/JustProj) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=SQLSymphony&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/SQLSymphony)

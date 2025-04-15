@@ -3,15 +3,15 @@
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer"/></p>
 
 <h1 align="center">Hi, i am <a href="https://t.me/alexeev_dev" target="_blank">Alexeev</a> 
-<h3 align="center">Computer science student, developer in C/C++, Go, Python and technical writer from Russia 🇷🇺  </h3>
-<h3 align="right">Also, i am part of the Alt Gnome Community</h3>
+<h3 align="center">Computer science student, developer in C, Rust, Go, Python and technical writer from Russia 🇷🇺  </h3>
+<h3 align="right">I Use NixOS BTW</h3>
 
 ## About me
 
 - 🔭 I am working on well-designed projects: [pysqlified](https://github.com/alexeev-prog/pysqlified), [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext)
-- 🌱 I learning C/C++, Rust.
+- 🌱 I learning Go, Rust.
 - 📫 Email: alexeev.dev@mail.ru
-- 🤔 I want to learn system programming, CS and graphics-dev
+- 🤔 I want to learn system programming, CS, graphics-dev and arduino/etc microcontrollers
 - :zap: I am love write articles and coding
 
 ### :hammer_and_wrench: Tools and language :
@@ -22,7 +22,7 @@
 
 ---
 
-<div>
+<div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;

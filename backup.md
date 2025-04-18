@@ -23,7 +23,7 @@
 
 <div align='center'>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog&theme=github_dark)
 
 </div>
 
@@ -61,9 +61,9 @@
 
 ### :fire: My statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="alexeev-prog" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeev-prog&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="alexeev-prog" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexeev-prog&theme=darkhub&column=6&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Stars,Followers,Experience,Repositories,Commits" alt="alexeev-prog" /></a> </p>
 
@@ -71,11 +71,11 @@
 
 <div align='center'>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=shegang&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/shegang) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpp&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/libnumerixpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=shegang&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/shegang) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpp&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/libnumerixpp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=JustProj&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/JustProj) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=SQLSymphony&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/SQLSymphony)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=JustProj&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/JustProj) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=SQLSymphony&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/SQLSymphony)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/pyEchoNext) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=aioconsole&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/aioconsole)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyEchoNext) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=aioconsole&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/aioconsole)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=burn-build&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/burn-build) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=gnux&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/gnux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=burn-build&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/burn-build) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=gnux&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/gnux)
 </div>

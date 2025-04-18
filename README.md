@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" **alt="C++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nix/nix-original.svg" title="nixos" **alt="Go" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="nixos" **alt="Go" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Go" **alt="C++" width="40" height="40"/>
 </div>
 

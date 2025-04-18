@@ -1,4 +1,10 @@
-<img src="https://komarev.com/ghpvc/?username=alexeev-prog&style=flat-square&color=blue" alt=""/>
+![alt text](image.png)
+
+<div align='center'>
+<img src="https://komarev.com/ghpvc/?username=alexeev-prog&style=flat-square&color=blue&style=for-the-badge" alt=""/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/alexeev-prog?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<img src="https://img.shields.io/github/stars/alexeev-prog?label=Stars&style=for-the-badge" alt="stars">
+</div>
 
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer"/></p>
 
@@ -18,9 +24,9 @@
 
 <div align='center'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeev-prog&hide=css,html&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog&theme=github_dark)
 
-</center>
+</div>
 ---
 
 <div align='center'>
@@ -34,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" **alt="C++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/go-original.svg" title="nixos" **alt="Go" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nix/nix-original.svg" title="nixos" **alt="Go" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Go" **alt="C++" width="40" height="40"/>
 </div>
 

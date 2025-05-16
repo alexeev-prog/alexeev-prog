@@ -13,8 +13,8 @@
 
 ## About me
 
-- 🔭 I am working on well-designed projects: [aiomarine](https://github.com/alexeev-prog/aiomarine), [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext)
-- 🌱 I learning Go, Rust.
+- 🔭 I am working on well-designed projects: [domkrat3d](https://github.com/alexeev-prog/domkrat3d), [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext)
+- 🌱 I learning C++, Rust.
 - 📫 Email: alexeev.dev@mail.ru
 - 🤔 I want to learn system programming, CS, graphics-dev and arduino/etc microcontrollers
 - :zap: I am love write articles and coding
@@ -75,7 +75,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpy&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/libnumerixpy) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=aiomarine&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/aiomarine)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyEchoNext) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=aioconsole&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/aioconsole)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyEchoNext) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=domkrat3d&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/domkrat3d)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=burn-build&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/burn-build) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=flexpasm&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/flexpasm)
 </div>

@@ -23,7 +23,7 @@
 
 <div align='center'>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog&theme=catppuccin_mocha)
 
 </div>
 
@@ -61,9 +61,9 @@
 
 ### :fire: My statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="alexeev-prog" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="alexeev-prog" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeev-prog&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="alexeev-prog" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeev-prog&show_icons=true&locale=en&theme=catppuccin_mocha&hide_border=true" alt="alexeev-prog" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexeev-prog&theme=darkhub&column=6&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Stars,Followers,Experience,Repositories,Commits" alt="alexeev-prog" /></a> </p>
 
@@ -71,11 +71,11 @@
 
 <div align='center'>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=shegang&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/shegang) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpp&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/libnumerixpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=shegang&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&hide_border=true)](https://github.com/alexeev-prog/shegang) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpp&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&hide_border=true)](https://github.com/alexeev-prog/libnumerixpp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpy&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/libnumerixpy) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=aiomarine&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/aiomarine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpy&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&hide_border=true)](https://github.com/alexeev-prog/libnumerixpy) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=aiomarine&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&hide_border=true)](https://github.com/alexeev-prog/aiomarine)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/pyEchoNext) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=domkrat3d&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/domkrat3d)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&hide_border=true)](https://github.com/alexeev-prog/pyEchoNext) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=domkrat3d&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&hide_border=true)](https://github.com/alexeev-prog/domkrat3d)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=morning.lang&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/morning.lang) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=flexpasm&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)](https://github.com/alexeev-prog/flexpasm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=morning.lang&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&hide_border=true)](https://github.com/alexeev-prog/morning.lang) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=flexpasm&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&hide_border=true)](https://github.com/alexeev-prog/flexpasm)
 </div>

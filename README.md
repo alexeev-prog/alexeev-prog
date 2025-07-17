@@ -77,5 +77,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/pyEchoNext) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=domkrat3d&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/domkrat3d)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=morning.lang&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/morning.lang) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=ngpasm&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/ngpasm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=rtfm&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/rtfm) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=ngpasm&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/ngpasm)
 </div>

@@ -1,3 +1,45 @@
+commit b34502ec45898e525e30ee3b96255423f5d2a4f7
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Fri Jul 11 17:11:05 2025 +0700
+
+    update
+
+commit c19a240e480c3aa17132e3adaf43e7f439bdfaeb
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Fri Jul 11 17:10:15 2025 +0700
+
+    update
+
+commit fcac53965a3b8e479e6134ef6d834d9505a25bd8
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Fri Jul 11 17:09:31 2025 +0700
+
+    update
+
+commit 80ecc5ddcee277a6eb2aa990f5c3e7c500d39328
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Fri Jul 11 17:04:39 2025 +0700
+
+    update
+
+commit 5a13d421eb2a39993188a47a640663d2ce1b2676
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Fri Jul 11 16:56:39 2025 +0700
+
+    update
+
+commit 3c04b1c97e52756a0e06d55889b7a76ee9c0fb9d
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Fri Jun 27 21:16:54 2025 +0700
+
+    set cards theme to catppuccin
+
+commit 191bbfe599367a581997b6363afaad45815c1c2f
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Fri Jun 27 21:15:12 2025 +0700
+
+    set transparent cards
+
 commit 79bff395ecccb1c79bde3f4cd1a7fdaa2308ad54
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>
 Date:   Mon Jun 16 03:51:15 2025 +0700

@@ -73,7 +73,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyminideprecator&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/pyminideprecator) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpp&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/libnumerixpp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpy&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/libnumerixpy) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyharborcli&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/pyharborcli)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpy&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/libnumerixpy) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=sleaf-llvm&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/sleaf-llvm)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/pyEchoNext) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=domkrat3d&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/alexeev-prog/domkrat3d)
 

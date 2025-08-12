@@ -8,7 +8,7 @@
 
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer"/></p>
 
-<h3 align="center">Computer science student, developer in C, Rust, C++, Python and technical writer from Russia 🇷🇺  </h3>
+<h3 align="center">Computer science student, developer in C, Rust, Go, C++, Python and technical writer from Russia 🇷🇺  </h3>
 <h3 align="right">I Use NixOS BTW</h3>
 
 ## About me

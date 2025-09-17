@@ -8,13 +8,13 @@
 
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer"/></p>
 
-<h3 align="center">Computer science student, developer in C, Rust, C#, C++, Python and technical writer from Russia 🇷🇺  </h3>
+<h3 align="center">Computer science student, developer in C, Rust, ML, C++, Python and technical writer from Russia 🇷🇺  </h3>
 <h3 align="right">I Use NixOS BTW</h3>
 
 ## About me
 
 - 🔭 I am working on well-designed projects: [domkrat3d](https://github.com/alexeev-prog/domkrat3d), [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext)
-- 🌱 I learning C++, Rust, C#, .NET.
+- 🌱 I learning C++, Rust, Machine Learning, Data Science.
 - 📫 Email: alexeev.dev@mail.ru ([my telegram](https://t.me/alexeev_dev))
 - 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture, high-load backend.
 - :zap: I am love write articles and coding

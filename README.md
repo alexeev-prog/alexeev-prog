@@ -13,10 +13,10 @@
 
 ## About me
 
-- 🔭 I am working on well-designed projects: [domkrat3d](https://github.com/alexeev-prog/domkrat3d), [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext)
+- 🔭 I am working on well-designed projects: [nadzoring](https://github.com/alexeev-prog/nadzoring), [KintsugiOS](https://github.com/alexeev-prog/KintsugiOS)
 - 🌱 I learning C++, Rust, Machine Learning, Data Science.
 - 📫 Email: alexeev.dev@mail.ru ([my telegram](https://t.me/alexeev_dev))
-- 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture, high-load backend.
+- 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture, system design, ML&DS
 - :zap: I am love write articles and coding
 
 ### :hammer_and_wrench: Tools and language :

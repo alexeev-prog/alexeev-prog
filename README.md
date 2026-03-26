@@ -20,6 +20,19 @@
 - :zap: I am love write articles and coding
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 31 hrs 54 mins
+
+Markdown           15 hrs 31 mins        ████████████░░░░░░░░░░░░░   48.61 %
+Python             13 hrs 3 mins         ██████████▒░░░░░░░░░░░░░░   40.89 %
+C                  1 hr 26 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+reStructuredText   36 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+HTML               25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Nix                7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Makefile           1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
 <!--END_SECTION:waka-->
 
 ### :hammer_and_wrench: Tools and language :

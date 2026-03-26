@@ -1,3 +1,9 @@
+commit b76c92f34e686a67a32c23f56ea159d20bb041f5
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Thu Mar 26 15:27:56 2026 +0700
+
+    update readme
+
 commit e030b17166495082ecb0dbbe1ade17d29bf1caf1
 Merge: 31a7346 f2cd39c
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>

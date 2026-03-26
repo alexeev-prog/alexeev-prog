@@ -12,7 +12,15 @@
 
 <h3 align="center">Developer in C/C++, Rust, Python, Writer, Meetuper from Russia 🇷🇺</h3>
 
-## 🧭 Community & Content
+## About me
+
+- 🔭 I am working on well-designed projects: [nadzoring](https://github.com/alexeev-prog/nadzoring), [KintsugiOS](https://github.com/alexeev-prog/KintsugiOS)
+- 🌱 I learning C++, Rust, Machine Learning, Data Science.
+- 📫 Email: alexeev.dev@mail.ru ([my telegram](https://t.me/alexeev_dev))
+- 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture, computer science, ML&DS
+- :zap: I love writing articles, coding and researching.
+
+### Community & Content
 
 - 🐍 Organizer of **PythoNSK** — a local Python community in Novosibirsk, Russia
   👉 [Join us on Telegram](https://t.me/python_in_nsk)
@@ -23,13 +31,7 @@
 - 📖 I write articles on Habr — tutorials, open source, notes.
   👉 [My profile on Habr](https://habr.com/ru/users/DrArgentum/)
 
-## About me
-
-- 🔭 I am working on well-designed projects: [nadzoring](https://github.com/alexeev-prog/nadzoring), [KintsugiOS](https://github.com/alexeev-prog/KintsugiOS)
-- 🌱 I learning C++, Rust, Machine Learning, Data Science.
-- 📫 Email: alexeev.dev@mail.ru ([my telegram](https://t.me/alexeev_dev))
-- 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture, computer science, ML&DS
-- :zap: I love writing articles, coding and researching.
+---
 
 <!--START_SECTION:waka-->
 

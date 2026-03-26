@@ -31,7 +31,7 @@
 - 📖 I write articles on Habr — tutorials, open source, notes.
   👉 [My profile on Habr](https://habr.com/ru/users/DrArgentum/)
 
----
+## :hammer_and_wrench: Tools and language :
 
 <!--START_SECTION:waka-->
 
@@ -48,8 +48,6 @@ Makefile           1 min                 ░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-### :hammer_and_wrench: Tools and language :
 
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -95,7 +93,7 @@ Makefile           1 min                 ░░░░░░░░░░░░░
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" **alt="cmake" width="40" height="40"/>
 </div>
 
-### :fire: My statistics
+## :fire: My statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
 
@@ -107,7 +105,7 @@ Makefile           1 min                 ░░░░░░░░░░░░░
 
 </div>
 
-### My projects
+## My projects
 
 <div align='center'>
 

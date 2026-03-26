@@ -8,15 +8,14 @@
 
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer"/></p>
 
-<h3 align="center">Computer science student, developer in C, Rust, ML, C++, Python and technical writer from Russia 🇷🇺  </h3>
-<h3 align="right">I Use NixOS BTW</h3>
+<h3 align="center">Developer in C/C++, Rust, Python and writer from Russia 🇷🇺</h3>
 
 ## About me
 
 - 🔭 I am working on well-designed projects: [nadzoring](https://github.com/alexeev-prog/nadzoring), [KintsugiOS](https://github.com/alexeev-prog/KintsugiOS)
 - 🌱 I learning C++, Rust, Machine Learning, Data Science.
 - 📫 Email: alexeev.dev@mail.ru ([my telegram](https://t.me/alexeev_dev))
-- 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture, system design, ML&DS
+- 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture, computer science, ML&DS
 - :zap: I am love write articles and coding
 
 <!--START_SECTION:waka-->

@@ -1,14 +1,27 @@
 ![alt text](image.png)
 
 <div align='center'>
-<img src="https://komarev.com/ghpvc/?username=alexeev-prog&style=flat-square&color=blue&style=for-the-badge" alt=""/>
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/alexeev-prog?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-<img src="https://img.shields.io/github/stars/alexeev-prog?label=Stars&style=for-the-badge" alt="stars">
+  <img src="https://komarev.com/ghpvc/?username=alexeev-prog&style=flat-square&color=blue&style=for-the-badge" alt=""/>
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/alexeev-prog?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+  <img src="https://img.shields.io/github/stars/alexeev-prog?label=Stars&style=for-the-badge" alt="stars">
 </div>
 
-<p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer"/></p>
+<p align='center'>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer"/>
+</p>
 
-<h3 align="center">Developer in C/C++, Rust, Python and writer from Russia 🇷🇺</h3>
+<h3 align="center">Developer in C/C++, Rust, Python, Writer, Meetuper from Russia 🇷🇺</h3>
+
+## 🧭 Community & Content
+
+- 🐍 Organizer of **PythoNSK** — a local Python community in Novosibirsk, Russia
+  👉 [Join us on Telegram](https://t.me/python_in_nsk)
+
+- ✍️ My tech blog (Russian) — deep dives, coding stories, and IT insights
+  👉 [Hex Warehouse Telegram Channel](https://t.me/hex_warehouse)
+
+- 📖 I write articles on Habr — tutorials, open source, notes.
+  👉 [My profile on Habr](https://habr.com/ru/users/DrArgentum/)
 
 ## About me
 
@@ -16,7 +29,7 @@
 - 🌱 I learning C++, Rust, Machine Learning, Data Science.
 - 📫 Email: alexeev.dev@mail.ru ([my telegram](https://t.me/alexeev_dev))
 - 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture, computer science, ML&DS
-- :zap: I am love write articles and coding
+- :zap: I love writing articles, coding and researching.
 
 <!--START_SECTION:waka-->
 
@@ -35,14 +48,6 @@ Makefile           1 min                 ░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### :hammer_and_wrench: Tools and language :
-
-<div align='center'>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog&theme=github_dark)
-
-</div>
-
----
 
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -93,6 +98,12 @@ Makefile           1 min                 ░░░░░░░░░░░░░
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
+
+<div align='center'>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog&theme=github_dark)
+
+</div>
 
 ### My projects
 

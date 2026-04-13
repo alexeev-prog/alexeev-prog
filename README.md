@@ -36,13 +36,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 52 hrs 24 mins
+Total Time: 53 hrs 49 mins
 
-Python             26 hrs 14 mins        ████████████▓░░░░░░░░░░░░   50.05 %
-Markdown           22 hrs 4 mins         ██████████▓░░░░░░░░░░░░░░   42.12 %
-C                  1 hr 26 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-reStructuredText   1 hr 5 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-HTML               25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Python             27 hrs 13 mins        ████████████▓░░░░░░░░░░░░   50.56 %
+Markdown           22 hrs 19 mins        ██████████▒░░░░░░░░░░░░░░   41.47 %
+C                  1 hr 26 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+reStructuredText   1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+HTML               34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 Nix                7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 Makefile           1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```

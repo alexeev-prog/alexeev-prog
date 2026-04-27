@@ -36,14 +36,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 75 hrs 7 mins
+Total Time: 76 hrs 34 mins
 
-Python             34 hrs 56 mins        ███████████▓░░░░░░░░░░░░░   46.52 %
-Markdown           32 hrs 36 mins        ███████████░░░░░░░░░░░░░░   43.40 %
-Elixir             1 hr 42 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-C                  1 hr 27 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-reStructuredText   1 hr 24 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-HTML               1 hr 17 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python             36 hrs 21 mins        ████████████░░░░░░░░░░░░░   47.47 %
+Markdown           32 hrs 38 mins        ██████████▓░░░░░░░░░░░░░░   42.63 %
+Elixir             1 hr 42 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+C                  1 hr 27 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+reStructuredText   1 hr 24 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+HTML               1 hr 17 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 Nix                7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 

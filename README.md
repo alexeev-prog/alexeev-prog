@@ -14,10 +14,10 @@
 
 ## About me
 
-- 🔭 I am working on well-designed projects: [nadzoring](https://github.com/alexeev-prog/nadzoring), [KintsugiOS](https://github.com/alexeev-prog/KintsugiOS)
-- 🌱 I learning C++, Rust, Machine Learning, Data Science.
+- 🔭 I am working on well-designed projects: [nadzoring](https://github.com/alexeev-prog/nadzoring), [usefulscripts](https://github.com/alexeev-prog/usefulscripts), [pyminideprecator](https://github.com/alexeev-prog/pyminideprecator)
+- 🌱 I learning Rust, C, Backend, Computer Science, System design
 - 📫 Email: alexeev.dev@mail.ru ([my telegram](https://t.me/alexeev_dev))
-- 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture, computer science, ML&DS
+- 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture
 - :zap: I love writing articles, coding and researching.
 
 ### Community & Content

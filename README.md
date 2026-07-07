@@ -50,9 +50,12 @@ RGBDS Assembly     28 mins               ░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<br>
+
 <div align='center'>
-<img src="https://devquest-mu.vercel.app/card/alexeev-prog.svg?template=wrapped&style=glass&theme=tokyonight" alt="@alexeev-prog's GitHub Stats" />
+<img src="https://devquest-mu.vercel.app/card/alexeev-prog.svg?template=neofetch&style=glass&theme=tokyonight&ascii=25&stats=repos%2Cfollowers%2Cstars%2Ccontributions%2Cstreak" alt="@alexeev-prog's GitHub Stats" />
 </div>
+<br>
 
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -98,7 +101,8 @@ RGBDS Assembly     28 mins               ░░░░░░░░░░░░░
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" **alt="cmake" width="40" height="40"/>
 </div>
 
+<br>
+
 <div align='center'>
-<img src="https://devquest-mu.vercel.app/card/alexeev-prog.svg?template=neofetch&style=glass&theme=tokyonight&ascii=25&stats=repos%2Cfollowers%2Cstars%2Ccontributions%2Cstreak" alt="@alexeev-prog's GitHub Stats" />
-<img src="https://devquest-mu.vercel.app/card/alexeev-prog.svg?template=rank-badge&style=glass&theme=tokyonight" alt="@alexeev-prog's GitHub Stats" />
+<img src="https://devquest-mu.vercel.app/card/alexeev-prog.svg?template=wrapped&style=glass&theme=tokyonight" alt="@alexeev-prog's GitHub Stats" />
 </div>

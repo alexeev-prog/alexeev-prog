@@ -94,27 +94,8 @@ RGBDS Assembly     28 mins               ░░░░░░░░░░░░░
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" **alt="cmake" width="40" height="40"/>
 </div>
 
-## :fire: My statistics
+![@alexeev-prog's GitHub Stats](https://devquest-mu.vercel.app/card/alexeev-prog.svg?template=neofetch&style=glass&theme=tokyonight&ascii=25&stats=repos%2Cfollowers%2Cstars%2Ccontributions%2Cstreak)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
+![@alexeev-prog's GitHub Stats](https://devquest-mu.vercel.app/card/alexeev-prog.svg?template=rank-badge&style=glass&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
-
-<div align='center'>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog&theme=github_dark)
-
-</div>
-
-## My projects
-
-<div align='center'>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyminideprecator&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyminideprecator) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=usefulscripts&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/usefulscripts)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=libnumerixpy&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/libnumerixpy) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=KintsugiOS&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/KintsugiOS)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=cprnglib&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/cprnglib) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=theartoffun_c&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/theartoffun_c)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=nadzoring&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/nadzoring) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=Osdev-Notes-RU&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/Osdev-Notes-RU)
-</div>
+![@alexeev-prog's GitHub Stats](https://devquest-mu.vercel.app/card/alexeev-prog.svg?template=wrapped&style=glass&theme=tokyonight)

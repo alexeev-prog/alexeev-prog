@@ -20,16 +20,23 @@
 - 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture
 - :zap: I love writing articles, coding and researching.
 
+<br>
+
+<div align='center'>
+<img src="https://devquest-mu.vercel.app/card/alexeev-prog.svg?template=neofetch&style=glass&theme=tokyonight&ascii=25&stats=repos%2Cfollowers%2Cstars%2Ccontributions%2Cstreak" alt="@alexeev-prog's GitHub Stats" />
+</div>
+<br>
+
 ### Community & Content
 
-- 🐍 Organizer of **PythoNSK** — a local Python community in Novosibirsk, Russia
-  👉 [Join us on Telegram](https://t.me/python_in_nsk)
+- Organizer of **PythoNSK** — a local Python community in Novosibirsk, Russia
+  [Join us on Telegram](https://t.me/python_in_nsk)
 
-- ✍️ My tech blog (Russian) — deep dives, coding stories, and IT insights
-  👉 [Hex Warehouse Telegram Channel](https://t.me/hex_warehouse)
+- My tech blog (Russian) — deep dives, coding stories, and IT insights
+  [Hex Warehouse Telegram Channel](https://t.me/hex_warehouse)
 
-- 📖 I write articles on Habr — tutorials, open source, notes.
-  👉 [My profile on Habr](https://habr.com/ru/users/DrArgentum/)
+- I write articles on Habr — tutorials, open source, notes.
+  [My profile on Habr](https://habr.com/ru/users/DrArgentum/)
 
 ## :hammer_and_wrench: Tools and language :
 
@@ -49,13 +56,6 @@ RGBDS Assembly     28 mins               ░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<br>
-
-<div align='center'>
-<img src="https://devquest-mu.vercel.app/card/alexeev-prog.svg?template=neofetch&style=glass&theme=tokyonight&ascii=25&stats=repos%2Cfollowers%2Cstars%2Ccontributions%2Cstreak" alt="@alexeev-prog's GitHub Stats" />
-</div>
-<br>
 
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>

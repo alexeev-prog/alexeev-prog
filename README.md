@@ -22,11 +22,6 @@
 
 <br>
 
-<div align='center'>
-<img src="https://devquest-mu.vercel.app/card/alexeev-prog.svg?template=neofetch&style=glass&theme=tokyonight&ascii=25&stats=repos%2Cfollowers%2Cstars%2Ccontributions%2Cstreak" alt="@alexeev-prog's GitHub Stats" />
-</div>
-<br>
-
 ### Community & Content
 
 - Organizer of **PythoNSK** — a local Python community in Novosibirsk, Russia

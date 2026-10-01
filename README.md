@@ -20,7 +20,9 @@
 - 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture
 - :zap: I love writing articles, coding and researching.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/alexeev-prog?theme=dark&font=JetBrains%20Mono)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/alexeev-prog?theme=dark&font=JetBrains%20Mono"/>
+</div>
 
 ### Community & Content
 

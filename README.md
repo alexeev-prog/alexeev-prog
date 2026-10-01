@@ -18,19 +18,13 @@
 
 ## About me
 
-- 🔭 I am working on well-designed projects: [nadzoring](https://github.com/alexeev-prog/nadzoring), [usefulscripts](https://github.com/alexeev-prog/usefulscripts), [pyminideprecator](https://github.com/alexeev-prog/pyminideprecator)
-- 🌱 I learning Rust, C, Backend, Computer Science, System design
-- 📫 Email: alexeev.dev@mail.ru ([my telegram](https://t.me/alexeev_dev))
-- 🤔 I want to learn OSDEV, 3d computer graphics, compilers architecture
+- I am working on well-designed projects: [nadzoring](https://github.com/alexeev-prog/nadzoring), [KintsugiOS](https://github.com/alexeev-prog/KintsugiOS), [pyintents](https://github.com/alexeev-prog/pyintents)
+- I learning Rust, Computer Science, System design
+- Email: alexeev.dev@mail.ru ([my telegram](https://t.me/alexeev_dev))
+- I want to learn OSDEV, 3d computer graphics, compilers architecture
 - :zap: I love writing articles, coding and researching.
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/alexeev-prog?theme=dark&font=JetBrains%20Mono"/>
-</div>
-
-### Community & Content
-
-- Organizer of **PythoNSK** — a local Python community in Novosibirsk, Russia
+- Organizer of PythoNSK — a local Python community in Novosibirsk, Russia
   [Join us on Telegram](https://t.me/python_in_nsk)
 
 - My tech blog (Russian) — deep dives, coding stories, and IT insights
@@ -39,7 +33,11 @@
 - I write articles on Habr — tutorials, open source, notes.
   [My profile on Habr](https://habr.com/ru/users/DrArgentum/)
 
-## :hammer_and_wrench: Tools and language :
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/alexeev-prog?theme=dark&font=JetBrains%20Mono"/>
+</div>
+
+## Tools and language
 
 <!--START_SECTION:waka-->
 

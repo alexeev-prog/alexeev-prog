@@ -139,12 +139,11 @@ RGBDS Assembly     44 mins               ░░░░░░░░░░░░░
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </div>
 
-
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
-
 <div align='center'>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog&theme=github_dark)
 
@@ -160,5 +159,6 @@ RGBDS Assembly     44 mins               ░░░░░░░░░░░░░
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=KintsugiOS&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/KintsugiOS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyEchoNext)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyintents&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyintents) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=hn-sentiment-analysis&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyintents&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyintents) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=hn-sentiment-analysis&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/hn-sentiment-analysis)
+
 </div>

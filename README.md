@@ -12,7 +12,9 @@
 
 <h3 align="center">Developer in C/C++, Rust, Python, Writer, Meetuper from Russia 🇷🇺</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" />
+</div>
 
 ## About me
 

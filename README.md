@@ -38,10 +38,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 229 hrs 18 mins
+Total Time: 229 hrs 1 min
 
-Markdown           116 hrs 15 mins       ████████████▓░░░░░░░░░░░░   50.66 %
-Python             77 hrs 4 mins         ████████▒░░░░░░░░░░░░░░░░   33.59 %
+Markdown           115 hrs 58 mins       ████████████▓░░░░░░░░░░░░   50.60 %
+Python             77 hrs 4 mins         ████████▒░░░░░░░░░░░░░░░░   33.63 %
 Elixir             12 hrs 42 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
 C                  11 hrs 58 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 HTML               3 hrs 24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
@@ -114,7 +114,6 @@ RGBDS Assembly     44 mins               ░░░░░░░░░░░░░
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Arst"><img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>

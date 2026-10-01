@@ -34,7 +34,7 @@
   [My profile on Habr](https://habr.com/ru/users/DrArgentum/)
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/alexeev-prog?theme=dark&font=JetBrains%20Mono"/>
+  <img src="https://leetcard.jacoblin.cool/alexeev-prog?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
 </div>
 
 ## Tools and language

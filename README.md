@@ -142,11 +142,7 @@ RGBDS Assembly     44 mins               ░░░░░░░░░░░░░
 <br>
 
 <div align='center'>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" />
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-prog&theme=github_dark)
-
 </div>
 
 ---

@@ -102,6 +102,12 @@ RGBDS Assembly     44 mins               ░░░░░░░░░░░░░
 
 <br>
 
+<div align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" />
+</div>
+
+<br>
+
 <div align="center">
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -140,10 +146,6 @@ RGBDS Assembly     44 mins               ░░░░░░░░░░░░░
   </div>
 
 <br>
-
-<div align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" />
-</div>
 
 ---
 

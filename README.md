@@ -140,9 +140,9 @@ RGBDS Assembly     44 mins               ░░░░░░░░░░░░░
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" />
 
 <div align='center'>
 
@@ -154,13 +154,13 @@ RGBDS Assembly     44 mins               ░░░░░░░░░░░░░
 
 <div align='center'>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=nadzoring&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/nadzoring) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=usefulscripts&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/usefulscripts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=nadzoring&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/nadzoring) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=usefulscripts&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/usefulscripts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=theartoffun_c&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/theartoffun_c) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=KintsugiOS&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/KintsugiOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=theartoffun_c&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/theartoffun_c) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=KintsugiOS&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/KintsugiOS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=KintsugiOS&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/KintsugiOS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyEchoNext)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=KintsugiOS&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/KintsugiOS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyEchoNext)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyintents&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyintents) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=
-hn-sentiment-analysis&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyintents&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyintents) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=
+hn-sentiment-analysis&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/
 hn-sentiment-analysis)
 </div>

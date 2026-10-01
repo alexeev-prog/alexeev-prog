@@ -12,6 +12,8 @@
 
 <h3 align="center">Developer in C/C++, Rust, Python, Writer, Meetuper from Russia 🇷🇺</h3>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" />
+
 ## About me
 
 - 🔭 I am working on well-designed projects: [nadzoring](https://github.com/alexeev-prog/nadzoring), [usefulscripts](https://github.com/alexeev-prog/usefulscripts), [pyminideprecator](https://github.com/alexeev-prog/pyminideprecator)
@@ -140,9 +142,7 @@ RGBDS Assembly     44 mins               ░░░░░░░░░░░░░
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeev-prog&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alexeev-prog" /></p>
 
 <div align='center'>
 
@@ -160,7 +160,5 @@ RGBDS Assembly     44 mins               ░░░░░░░░░░░░░
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=KintsugiOS&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/KintsugiOS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyEchoNext&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyEchoNext)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyintents&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyintents) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=
-hn-sentiment-analysis&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/
-hn-sentiment-analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=pyintents&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/pyintents) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-prog&repo=hn-sentiment-analysis&show_icons=true&locale=en&theme=github_dark&hide_border=true)](https://github.com/alexeev-prog/
 </div>

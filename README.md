@@ -22,7 +22,7 @@
 - I learning Rust, Computer Science, System design
 - Email: alexeev.dev@mail.ru ([my telegram](https://t.me/alexeev_dev))
 - I want to learn OSDEV, 3d computer graphics, compilers architecture
-- :zap: I love writing articles, coding and researching.
+- I love writing articles, coding and researching.
 
 - Organizer of PythoNSK — a local Python community in Novosibirsk, Russia
   [Join us on Telegram](https://t.me/python_in_nsk)

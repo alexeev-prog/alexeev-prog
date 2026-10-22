@@ -42,16 +42,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 256 hrs 7 mins
+Total Time: 258 hrs 12 mins
 
-Markdown           142 hrs 48 mins       ██████████████░░░░░░░░░░░   55.70 %
-Python             77 hrs 20 mins        ███████▓░░░░░░░░░░░░░░░░░   30.16 %
-Elixir             12 hrs 42 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-C                  11 hrs 58 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-HTML               3 hrs 24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-reStructuredText   1 hr 49 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-CSS                1 hr 13 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-RGBDS Assembly     44 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Markdown           144 hrs 54 mins       ██████████████░░░░░░░░░░░   56.06 %
+Python             77 hrs 20 mins        ███████▒░░░░░░░░░░░░░░░░░   29.92 %
+Elixir             12 hrs 42 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+C                  11 hrs 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+HTML               3 hrs 24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+reStructuredText   1 hr 49 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+CSS                1 hr 13 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+RGBDS Assembly     44 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
